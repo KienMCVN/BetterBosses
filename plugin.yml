@@ -1,8 +1,9 @@
 name: BetterBosses
 main: cooldogedev\BetterBosses\BetterBosses
 author: cooldogedev
+upgrade: Di4r
 version: 1.0.0
-api: 4.0.0
+api: 5.0.0
 
 permissions:
   betterbosses.manage:
