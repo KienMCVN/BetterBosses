@@ -12,3 +12,4 @@ A bosses plugin for PocketMine-MP
 ## Contact
 > THIS PLUGIN APPEARS TO HAVE BEEN Abandoned by ITS AUTHOR! I WILL UPGRADE AND MAKE IT BETTER NOW AND IN THE FUTURE!
 > GIVE ME YOUR OPINION IF YOU HAVE A NEED!
+> <a href="https://poggit.pmmp.io/p/BetterBosses"><img src="https://poggit.pmmp.io/shield.dl.total/BetterBosses"></a>
