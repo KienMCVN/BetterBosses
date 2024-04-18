@@ -8,3 +8,7 @@ A bosses plugin for PocketMine-MP
 - Configurable behaviors and messages
 - Customisable human boss
 - Customisable rewards for killing the boss (items and commands)
+
+## CONTACT
+> THIS PLUGIN APPEARS TO HAVE BEEN Abandoned by ITS AUTHOR! I WILL UPGRADE AND MAKE IT BETTER NOW AND IN THE FUTURE!
+> GIVE ME YOUR OPINION IF YOU HAVE A NEED!
