@@ -1,5 +1,5 @@
 # BetterBosses
-<p align="center"><img src="icon.png"></p>
+<p align="center"><img src="icon-plugin.png"></p>
 A bosses plugin for PocketMine-MP
 
 ## Features
