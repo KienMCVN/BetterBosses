@@ -12,7 +12,7 @@ A bosses plugin for PocketMine-MP
 
 ## Contact
 > 📢 Contact me via:
->        • Facebook: <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" height=20px weight=20px/></a><a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">Tran Huy Bao</a>
+>        • Facebook: <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" height=20px weight=20px /></a><a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL">Tran Huy Bao</a>
 > <br>
 >        • Discord: <a href="https://discord.com/invite/vZJnDXCB"><img src="https://www.flaticon.com/free-icon/discord_3670157" height=20px weight=20px /></a><a href="https://discord.com/invite/vZJnDXCB">Di4r</a>
 > <br>
