@@ -1,6 +1,7 @@
 # BetterBosses
-<p align="center"><img src="icon-plugin.png"></p>
+<p align="center"><img src="icon-plugin.png">
 A bosses plugin for PocketMine-MP
+</p>
 
 ## Features
 - Auto respawning of bosses
