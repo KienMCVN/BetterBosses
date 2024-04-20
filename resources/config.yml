@@ -19,7 +19,7 @@ translations:
   additem-form:
     title: "Add item for boss"
     content: "Select a boss and &c Note: you must hold the item in your hand"
-    button:
+    buttons:
       - text: "&2Zombie"
         type: zombie
       - text: "&7skeleton"
