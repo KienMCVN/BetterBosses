@@ -12,7 +12,7 @@ A bosses plugin for PocketMine-MP
 
 ## Contact
 > 📢 Contact me via:
->        • Facebook: <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg"></a>
+>        • Facebook: <a href="https://www.facebook.com/profile.php?id=61555336191287&mibextid=ZbWKwL"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" height=20px weight=20px></a>
 >        • 
 > THIS PLUGIN APPEARS TO HAVE BEEN Abandoned by ITS AUTHOR! I WILL UPGRADE AND MAKE IT BETTER NOW AND IN THE FUTURE!
 > GIVE ME YOUR OPINION IF YOU HAVE A NEED!
