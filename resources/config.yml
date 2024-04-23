@@ -36,10 +36,9 @@ translations:
         type: custom
       - text: "&c&lBack"
 
-   removeitem-form:
-     title: "Remove item of boss"
-     content: "Select a item"
-     
+  removeitem-form:
+    title: "Remove item of boss"
+    content: "Select a item"  
 
   despawn-form:
     title: "Boss Despawn"
