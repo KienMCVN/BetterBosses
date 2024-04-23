@@ -99,9 +99,7 @@ bosses:
       x: 0
       y: 2
       z: 0
-    drops:
-      - "276:0:1"
-      - "1:0:64"
+    drops: []
     commands:
       - "say hello \"{player}\", you just got rewarded for killing a boss!"
 
@@ -116,9 +114,7 @@ bosses:
       x: 0
       y: 2
       z: 0
-    drops:
-      - "276:0:1"
-      - "1:0:64"
+    drops: []
     commands:
       - "say hello \"{player}\", you just got rewarded for killing a boss!"
 
@@ -133,9 +129,7 @@ bosses:
       x: 0
       y: 2
       z: 0
-    drops:
-      - "276:0:1"
-      - "1:0:64"
+    drops: []
     commands:
       - "say hello \"{player}\", you just got rewarded for killing a boss!"
 
@@ -150,9 +144,7 @@ bosses:
       x: 0
       y: 2
       z: 0
-    drops:
-      - "276:0:1"
-      - "1:0:64"
+    drops: []
     commands:
       - "say hello \"{player}\", you just got rewarded for killing a boss!"
 
@@ -167,9 +159,7 @@ bosses:
       x: 0
       y: 2
       z: 0
-    drops:
-      - "276:0:1"
-      - "1:0:64"
+    drops: []
     commands:
       - "say hello \"{player}\", you just got rewarded for killing a boss!"
 
@@ -184,9 +174,7 @@ bosses:
       x: 0
       y: 2
       z: 0
-    drops:
-      - "276:0:1"
-      - "1:0:64"
+    drops: []
     commands:
       - "say hello \"{player}\", you just got rewarded for killing a boss!"
 
@@ -202,9 +190,7 @@ bosses:
       x: 0
       y: 2
       z: 0
-    drops:
-      - "276:0:1"
-      - "1:0:64"
+    drops: []
     commands:
       - "say hello \"{player}\", you just got rewarded for killing a boss!"
 ...
