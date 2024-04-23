@@ -21,7 +21,9 @@ A bosses plugin for PocketMine-MP
 > GIVE ME YOUR OPINION IF YOU HAVE A NEED!
 > <a href="https://poggit.pmmp.io/p/BetterBosses"><img src="https://poggit.pmmp.io/shield.dl.total/BetterBosses"></a>
 <br>
+
 ## How to use?
 Command: `/betterbosses` - `to create bosses` or shorter `/bosses` Permission: `betterbosses.manage`
+
 ## Frequently asked Questions
 > `Does this plugin support configuration yet?:` It will soon have config support in the future!
