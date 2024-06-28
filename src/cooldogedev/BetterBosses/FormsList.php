@@ -47,7 +47,7 @@ final class FormsList
             $form = match ($data) {
                 0 => FormsList::getSpawnForm($player),
                 1 => FormsList::getDespawnForm($player),
-                2 => FormsList::AddItemGUI($player),
+                2 => FormsList::addItemForm($player),
                 default => null
             };
 
